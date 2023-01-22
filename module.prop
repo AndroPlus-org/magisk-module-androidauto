@@ -1,6 +1,6 @@
 id=android-auto-stub
 name=Android Auto Stub
-version=v01
-versionCode=1
+version=Android 13
+versionCode=13
 author=AndroPlus
 description=Add Android Auto Stub (Uninstall Android Auto app before installing this module)
